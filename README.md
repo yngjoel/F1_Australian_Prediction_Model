@@ -47,38 +47,8 @@ The main script uses the following steps:
     -   The models are trained on the 2024 data and used to predict the winner of the 2025 Australian Grand Prix.
 
   
-## How to Run
-
-1.  Clone the repository:
-    
-    bash
-    
-    CopyEdit
-    
-    `git clone https://github.com/yourusername/f1-prediction.git` 
-    
-2.  Navigate into the repository:
-    
-    bash
-    
-    CopyEdit
-    
-    `cd f1-prediction` 
-    
-3.  Install the dependencies:
-    
-    bash
-    
-    CopyEdit
-    
-    `pip install pandas numpy scikit-learn matplotlib` 
-    
-4.  Run the script:
-    
-    bash
-    
-    CopyEdit
-    
+## How to Run 
+   Run the script:
     `python predict_winner_3.0.py` 
     
 
