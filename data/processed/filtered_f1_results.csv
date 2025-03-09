@@ -1,0 +1,382 @@
+Year,Round,Date,Race,Circuit,Driver,Team,Position,Grid,Status
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,2,1,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,McLaren,5,10,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,6,4,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Renault,10,9,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Force India,12,14,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Sauber,13,18,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Williams,14,13,Finished
+2018,1,2018-03-25,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Toro Rosso,18,20,Engine
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,3,9,Finished
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Toro Rosso,4,5,Finished
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,McLaren,7,13,+1 Lap
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Force India,10,8,+1 Lap
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Renault,11,10,+1 Lap
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Sauber,12,19,+1 Lap
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Williams,14,20,+1 Lap
+2018,2,2018-04-08,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,19,15,Puncture
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Lewis Hamilton,Mercedes,4,4,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Max Verstappen,Red Bull,5,5,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Fernando Alonso,McLaren,7,13,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Carlos Sainz,Renault,9,9,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Esteban Ocon,Force India,11,12,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Lance Stroll,Williams,14,18,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Toro Rosso,18,17,Finished
+2018,3,2018-04-15,Chinese Grand Prix,Shanghai International Circuit,Charles Leclerc,Sauber,19,19,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Lewis Hamilton,Mercedes,1,2,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Carlos Sainz,Renault,5,9,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Charles Leclerc,Sauber,6,13,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Fernando Alonso,McLaren,7,12,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Lance Stroll,Williams,8,10,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Pierre Gasly,Toro Rosso,12,17,Finished
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Max Verstappen,Red Bull,16,5,Collision
+2018,4,2018-04-29,Azerbaijan Grand Prix,Baku City Circuit,Esteban Ocon,Force India,19,7,Collision
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,1,1,Finished
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull,3,5,Finished
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz,Renault,7,9,+1 Lap
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Fernando Alonso,McLaren,8,8,+1 Lap
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Sauber,10,14,+2 Laps
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Williams,11,18,+2 Laps
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Force India,16,13,Oil leak
+2018,5,2018-05-13,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,Toro Rosso,19,12,Collision
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,2,1,Finished
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,3,4,Finished
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,5,5,Finished
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Racing Point,9,16,+1 Lap
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Red Bull,11,17,+1 Lap
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,12,8,+1 Lap
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Toro Rosso,14,13,+1 Lap
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Williams,16,19,+2 Laps
+2019,1,2019-03-17,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,McLaren,20,18,Engine
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,1,3,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,3,1,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,4,5,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,6,9,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Red Bull,8,13,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Toro Rosso,9,12,Finished
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Racing Point,14,18,+1 Lap
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Williams,15,19,+1 Lap
+2019,2,2019-03-31,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,McLaren,19,7,Collision damage
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Lewis Hamilton,Mercedes,1,2,Finished
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Max Verstappen,Red Bull,4,5,Finished
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Charles Leclerc,Ferrari,5,4,Finished
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Red Bull,6,6,Finished
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Alexander Albon,Toro Rosso,10,0,+1 Lap
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Lance Stroll,Racing Point,12,16,+1 Lap
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Carlos Sainz,McLaren,14,14,+1 Lap
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,George Russell,Williams,16,17,+2 Laps
+2019,3,2019-04-14,Chinese Grand Prix,Shanghai International Circuit,Lando Norris,McLaren,18,15,Collision
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Lewis Hamilton,Mercedes,2,2,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Max Verstappen,Red Bull,4,4,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Charles Leclerc,Ferrari,5,8,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Carlos Sainz,McLaren,7,9,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Lando Norris,McLaren,8,7,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Lance Stroll,Racing Point,9,13,Finished
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Alexander Albon,Toro Rosso,11,11,+1 Lap
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,George Russell,Williams,15,16,+2 Laps
+2019,4,2019-04-28,Azerbaijan Grand Prix,Baku City Circuit,Pierre Gasly,Red Bull,17,0,Transmission
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,1,2,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull,3,4,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,5,5,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,Red Bull,6,6,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz,McLaren,8,12,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Alexander Albon,Toro Rosso,11,11,Finished
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,George Russell,Williams,17,19,+1 Lap
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Racing Point,19,16,Collision
+2019,5,2019-05-12,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lando Norris,McLaren,20,10,Collision
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Charles Leclerc,Ferrari,2,7,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Lando Norris,McLaren,3,3,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Lewis Hamilton,Mercedes,4,5,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Carlos Sainz,McLaren,5,8,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Pierre Gasly,AlphaTauri,7,12,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Esteban Ocon,Renault,8,14,Finished
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Alexander Albon,Red Bull,13,4,Electronics
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,George Russell,Williams,15,17,Fuel pressure
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Lance Stroll,Racing Point,18,9,Engine
+2020,1,2020-07-05,Austrian Grand Prix,Red Bull Ring,Max Verstappen,Red Bull,20,2,Electronics
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Lewis Hamilton,Mercedes,1,1,Finished
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Max Verstappen,Red Bull,3,2,Finished
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Alexander Albon,Red Bull,4,6,Finished
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Lando Norris,McLaren,5,9,Finished
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Lance Stroll,Racing Point,7,12,Finished
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Carlos Sainz,McLaren,9,3,+1 Lap
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Pierre Gasly,AlphaTauri,15,7,+1 Lap
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,George Russell,Williams,16,11,+2 Laps
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Esteban Ocon,Renault,18,5,Overheating
+2020,2,2020-07-12,Styrian Grand Prix,Red Bull Ring,Charles Leclerc,Ferrari,19,14,Collision damage
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Lewis Hamilton,Mercedes,1,1,Finished
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Max Verstappen,Red Bull,2,7,Finished
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Lance Stroll,Racing Point,4,3,Finished
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Alexander Albon,Red Bull,5,13,Finished
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Carlos Sainz,McLaren,9,9,+1 Lap
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Charles Leclerc,Ferrari,11,6,+1 Lap
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Lando Norris,McLaren,13,8,+1 Lap
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Esteban Ocon,Renault,14,14,+1 Lap
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,George Russell,Williams,18,12,+1 Lap
+2020,3,2020-07-19,Hungarian Grand Prix,Hungaroring,Pierre Gasly,AlphaTauri,20,10,Engine
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Lewis Hamilton,Mercedes,1,1,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Max Verstappen,Red Bull,2,3,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Charles Leclerc,Ferrari,3,4,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Lando Norris,McLaren,5,5,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Esteban Ocon,Renault,6,9,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Pierre Gasly,AlphaTauri,7,11,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Alexander Albon,Red Bull,8,12,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Lance Stroll,Racing Point,9,6,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,George Russell,Williams,12,20,Finished
+2020,4,2020-08-02,British Grand Prix,Silverstone Circuit,Carlos Sainz,McLaren,13,7,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Max Verstappen,Red Bull,1,4,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Lewis Hamilton,Mercedes,2,2,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Charles Leclerc,Ferrari,4,8,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Alexander Albon,Red Bull,5,9,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Lance Stroll,Racing Point,6,6,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Esteban Ocon,Renault,8,14,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Lando Norris,McLaren,9,10,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Pierre Gasly,AlphaTauri,11,7,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,Carlos Sainz,McLaren,13,12,Finished
+2020,5,2020-08-09,70th Anniversary Grand Prix,Silverstone Circuit,George Russell,Williams,18,15,+1 Lap
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,1,2,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,2,1,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,4,7,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,6,4,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,8,8,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,AlphaTauri,9,13,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,10,10,Finished
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,13,16,+1 Lap
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Williams,14,15,+1 Lap
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,AlphaTauri,17,5,Retired
+2021,1,2021-03-28,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Alpine F1 Team,19,9,Brakes
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Max Verstappen,Red Bull,1,3,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,2,1,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lando Norris,McLaren,3,7,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Charles Leclerc,Ferrari,4,4,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Carlos Sainz,Ferrari,5,11,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Pierre Gasly,AlphaTauri,7,5,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lance Stroll,Aston Martin,8,10,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Esteban Ocon,Alpine F1 Team,9,9,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Fernando Alonso,Alpine F1 Team,10,15,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Yuki Tsunoda,AlphaTauri,12,20,Finished
+2021,2,2021-04-18,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,George Russell,Williams,19,12,Collision
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Lewis Hamilton,Mercedes,1,2,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Max Verstappen,Red Bull,2,3,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Lando Norris,McLaren,5,7,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Charles Leclerc,Ferrari,6,8,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Esteban Ocon,Alpine F1 Team,7,6,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Fernando Alonso,Alpine F1 Team,8,13,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Pierre Gasly,AlphaTauri,10,9,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Carlos Sainz,Ferrari,11,5,Finished
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Lance Stroll,Aston Martin,14,17,+1 Lap
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,Yuki Tsunoda,AlphaTauri,15,14,+1 Lap
+2021,3,2021-05-02,Portuguese Grand Prix,Autódromo Internacional do Algarve,George Russell,Williams,16,11,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lewis Hamilton,Mercedes,1,1,Finished
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Max Verstappen,Red Bull,2,2,Finished
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Charles Leclerc,Ferrari,4,4,Finished
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Carlos Sainz,Ferrari,7,6,Finished
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lando Norris,McLaren,8,9,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Esteban Ocon,Alpine F1 Team,9,5,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Pierre Gasly,AlphaTauri,10,12,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Lance Stroll,Aston Martin,11,11,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,George Russell,Williams,14,15,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Fernando Alonso,Alpine F1 Team,17,10,+1 Lap
+2021,4,2021-05-09,Spanish Grand Prix,Circuit de Barcelona-Catalunya,Yuki Tsunoda,AlphaTauri,20,16,Electrical
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Max Verstappen,Red Bull,1,2,Finished
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Carlos Sainz,Ferrari,2,4,Finished
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Lando Norris,McLaren,3,5,Finished
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Pierre Gasly,AlphaTauri,6,6,Finished
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Lewis Hamilton,Mercedes,7,7,Finished
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Lance Stroll,Aston Martin,8,13,+1 Lap
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Esteban Ocon,Alpine F1 Team,9,11,+1 Lap
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Fernando Alonso,Alpine F1 Team,13,17,+1 Lap
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,George Russell,Williams,14,15,+1 Lap
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Yuki Tsunoda,AlphaTauri,16,16,+1 Lap
+2021,5,2021-05-23,Monaco Grand Prix,Circuit de Monaco,Charles Leclerc,Ferrari,20,1,Driveshaft
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,1,1,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,2,3,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,3,5,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,4,9,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,7,11,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,AlphaTauri,8,16,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Alpine F1 Team,9,8,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,12,19,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,13,14,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,15,13,Finished
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,19,2,Fuel pressure
+2022,1,2022-03-20,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,AlphaTauri,20,10,Power Unit
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,1,4,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,2,2,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Carlos Sainz,Ferrari,3,3,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,5,6,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,6,5,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,7,11,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,AlphaTauri,8,9,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,10,15,Finished
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,13,13,+1 Lap
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,14,16,Collision damage
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Alpine F1 Team,16,7,Water pump
+2022,2,2022-03-27,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,AlphaTauri,19,19,Power Unit
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,1,1,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,3,6,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,4,5,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,5,4,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,7,8,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,AlphaTauri,9,11,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,10,20,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,12,19,Finished
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,AlphaTauri,15,13,+1 Lap
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Alpine F1 Team,17,10,+1 Lap
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,18,2,Fuel leak
+2022,3,2022-04-10,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,20,9,Spun off
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Max Verstappen,Red Bull,1,1,Finished
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lando Norris,McLaren,3,5,Finished
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,George Russell,Mercedes,4,11,Finished
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Charles Leclerc,Ferrari,6,2,Finished
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Yuki Tsunoda,AlphaTauri,7,12,Finished
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lance Stroll,Aston Martin,10,15,+1 Lap
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Alexander Albon,Williams,11,18,+1 Lap
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Pierre Gasly,AlphaTauri,12,17,+1 Lap
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Lewis Hamilton,Mercedes,13,14,+1 Lap
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Esteban Ocon,Alpine F1 Team,14,16,+1 Lap
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Fernando Alonso,Alpine F1 Team,19,9,Collision damage
+2022,4,2022-04-24,Emilia Romagna Grand Prix,Autodromo Enzo e Dino Ferrari,Carlos Sainz,Ferrari,20,4,Collision
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Max Verstappen,Red Bull,1,3,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Charles Leclerc,Ferrari,2,1,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Carlos Sainz,Ferrari,3,2,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,George Russell,Mercedes,5,12,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Lewis Hamilton,Mercedes,6,6,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Esteban Ocon,Alpine F1 Team,8,20,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Alexander Albon,Williams,9,18,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Lance Stroll,Aston Martin,10,0,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Fernando Alonso,Alpine F1 Team,11,11,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Yuki Tsunoda,AlphaTauri,12,9,Finished
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Pierre Gasly,AlphaTauri,18,7,Suspension
+2022,5,2022-05-08,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren,19,8,Collision
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,1,1,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Aston Martin,3,5,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,4,4,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,5,7,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,6,8,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,7,6,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Alpine F1 Team,9,20,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,10,15,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,AlphaTauri,11,14,Finished
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,17,11,+2 Laps
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,18,9,Mechanical
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,19,3,Engine
+2023,1,2023-03-05,Bahrain Grand Prix,Bahrain International Circuit,Oscar Piastri,McLaren,20,18,Electrical
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,2,15,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Aston Martin,3,2,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,4,3,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,5,7,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Carlos Sainz,Ferrari,6,4,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,7,12,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,8,6,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,Alpine F1 Team,9,9,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,AlphaTauri,11,16,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oscar Piastri,McLaren,15,8,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,17,19,Finished
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,19,17,Brakes
+2023,2,2023-03-19,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,20,5,Engine
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,1,1,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,2,3,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Aston Martin,3,4,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,4,6,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,6,13,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Oscar Piastri,McLaren,8,16,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,AlphaTauri,10,12,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,12,5,Finished
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Alpine F1 Team,13,9,Collision
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,14,11,Collision
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,18,2,Engine
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,19,8,Accident
+2023,3,2023-04-02,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,20,7,Collision
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Max Verstappen,Red Bull,2,2,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Charles Leclerc,Ferrari,3,1,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Fernando Alonso,Aston Martin,4,6,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Carlos Sainz,Ferrari,5,4,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Lewis Hamilton,Mercedes,6,5,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Lance Stroll,Aston Martin,7,9,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,George Russell,Mercedes,8,11,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Lando Norris,McLaren,9,7,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Yuki Tsunoda,AlphaTauri,10,8,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Oscar Piastri,McLaren,11,10,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Alexander Albon,Williams,12,12,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Pierre Gasly,Alpine F1 Team,14,17,Finished
+2023,4,2023-04-30,Azerbaijan Grand Prix,Baku City Circuit,Esteban Ocon,Alpine F1 Team,15,0,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Max Verstappen,Red Bull,1,9,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Fernando Alonso,Aston Martin,3,2,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,George Russell,Mercedes,4,6,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Carlos Sainz,Ferrari,5,3,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Lewis Hamilton,Mercedes,6,13,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Charles Leclerc,Ferrari,7,7,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Pierre Gasly,Alpine F1 Team,8,5,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Esteban Ocon,Alpine F1 Team,9,8,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Yuki Tsunoda,AlphaTauri,11,17,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Lance Stroll,Aston Martin,12,18,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Alexander Albon,Williams,14,11,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren,17,16,Finished
+2023,5,2023-05-07,Miami Grand Prix,Miami International Autodrome,Oscar Piastri,McLaren,19,19,+1 Lap
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,1,1,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,3,4,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,4,2,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,5,3,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,6,7,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,7,9,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Oscar Piastri,McLaren,8,8,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Aston Martin,9,6,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,10,12,Finished
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,RB F1 Team,14,11,+1 Lap
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,15,13,+1 Lap
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,17,19,+1 Lap
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Alpine F1 Team,18,20,+1 Lap
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,1,1,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,3,2,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oscar Piastri,McLaren,4,5,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Aston Martin,5,4,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,6,7,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oliver Bearman,Ferrari,7,11,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,8,6,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,9,8,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,11,12,Finished
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,13,17,+1 Lap
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,RB F1 Team,15,9,+1 Lap
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,19,10,Accident
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,Alpine F1 Team,20,18,Gearbox
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,1,2,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,2,4,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,3,3,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Oscar Piastri,McLaren,4,5,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,6,9,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,RB F1 Team,7,8,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Aston Martin,8,10,Finished
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,11,12,+1 Lap
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Alpine F1 Team,13,17,+1 Lap
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,16,15,+1 Lap
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,17,7,Accident
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,18,11,Engine
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,19,1,Brakes
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Max Verstappen,Red Bull,1,1,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Carlos Sainz,Ferrari,3,4,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Charles Leclerc,Ferrari,4,8,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lando Norris,McLaren,5,3,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Fernando Alonso,Aston Martin,6,5,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,George Russell,Mercedes,7,9,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Oscar Piastri,McLaren,8,6,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lewis Hamilton,Mercedes,9,7,Finished
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Yuki Tsunoda,RB F1 Team,10,10,+1 Lap
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lance Stroll,Aston Martin,12,16,+1 Lap
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Esteban Ocon,Alpine F1 Team,15,15,+1 Lap
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Pierre Gasly,Alpine F1 Team,16,17,+1 Lap
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Alexander Albon,Williams,20,14,Accident
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Max Verstappen,Red Bull,1,1,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lando Norris,McLaren,2,4,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Charles Leclerc,Ferrari,4,6,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Carlos Sainz,Ferrari,5,7,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,George Russell,Mercedes,6,8,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Fernando Alonso,Aston Martin,7,3,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Oscar Piastri,McLaren,8,5,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lewis Hamilton,Mercedes,9,18,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Esteban Ocon,Alpine F1 Team,11,13,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Alexander Albon,Williams,12,14,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Alpine F1 Team,13,15,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lance Stroll,Aston Martin,15,11,Finished
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Yuki Tsunoda,RB F1 Team,19,19,Retired
+2024,6,2024-05-05,Miami Grand Prix,Miami International Autodrome,Lando Norris,McLaren,1,5,Finished

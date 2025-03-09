@@ -1,0 +1,67 @@
+Year,Round,Date,Race Name,Circuit,Driver,Team,Qualifying Position
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Max Verstappen,Red Bull,1
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Charles Leclerc,Ferrari,2
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,George Russell,Mercedes,3
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Carlos Sainz,Ferrari,4
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Fernando Alonso,Aston Martin,6
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lando Norris,McLaren,7
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Oscar Piastri,McLaren,8
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lewis Hamilton,Mercedes,9
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Yuki Tsunoda,RB F1 Team,11
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Lance Stroll,Aston Martin,12
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Alexander Albon,Williams,13
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Esteban Ocon,Alpine F1 Team,19
+2024,1,2024-03-02,Bahrain Grand Prix,Bahrain International Circuit,Pierre Gasly,Alpine F1 Team,20
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Max Verstappen,Red Bull,1
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Charles Leclerc,Ferrari,2
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Fernando Alonso,Aston Martin,4
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oscar Piastri,McLaren,5
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lando Norris,McLaren,6
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,George Russell,Mercedes,7
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lewis Hamilton,Mercedes,8
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Yuki Tsunoda,RB F1 Team,9
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Lance Stroll,Aston Martin,10
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Oliver Bearman,Ferrari,11
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Alexander Albon,Williams,12
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Esteban Ocon,Alpine F1 Team,17
+2024,2,2024-03-09,Saudi Arabian Grand Prix,Jeddah Corniche Circuit,Pierre Gasly,Alpine F1 Team,18
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Max Verstappen,Red Bull,1
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Carlos Sainz,Ferrari,2
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lando Norris,McLaren,4
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Charles Leclerc,Ferrari,5
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Oscar Piastri,McLaren,6
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,George Russell,Mercedes,7
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Yuki Tsunoda,RB F1 Team,8
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lance Stroll,Aston Martin,9
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Fernando Alonso,Aston Martin,10
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Lewis Hamilton,Mercedes,11
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Alexander Albon,Williams,12
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Esteban Ocon,Alpine F1 Team,15
+2024,3,2024-03-24,Australian Grand Prix,Albert Park Grand Prix Circuit,Pierre Gasly,Alpine F1 Team,17
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Max Verstappen,Red Bull,1
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lando Norris,McLaren,3
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Carlos Sainz,Ferrari,4
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Fernando Alonso,Aston Martin,5
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Oscar Piastri,McLaren,6
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lewis Hamilton,Mercedes,7
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Charles Leclerc,Ferrari,8
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,George Russell,Mercedes,9
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Yuki Tsunoda,RB F1 Team,10
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Alexander Albon,Williams,14
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Esteban Ocon,Alpine F1 Team,15
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Lance Stroll,Aston Martin,16
+2024,4,2024-04-07,Japanese Grand Prix,Suzuka Circuit,Pierre Gasly,Alpine F1 Team,17
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Max Verstappen,Red Bull,1
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Fernando Alonso,Aston Martin,3
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lando Norris,McLaren,4
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Oscar Piastri,McLaren,5
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Charles Leclerc,Ferrari,6
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Carlos Sainz,Ferrari,7
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,George Russell,Mercedes,8
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lance Stroll,Aston Martin,11
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Esteban Ocon,Alpine F1 Team,13
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Alexander Albon,Williams,14
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Pierre Gasly,Alpine F1 Team,15
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Lewis Hamilton,Mercedes,18
+2024,5,2024-04-21,Chinese Grand Prix,Shanghai International Circuit,Yuki Tsunoda,RB F1 Team,19
+2024,6,2024-05-05,Miami Grand Prix,Miami International Autodrome,Max Verstappen,Red Bull,1
