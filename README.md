@@ -49,7 +49,7 @@ The main script uses the following steps:
   
 ## How to Run 
    Run the script:
-    `python predict_winner_3.0.py` 
+    `python predict_winner_2.0.py` 
     
 
 ## License
